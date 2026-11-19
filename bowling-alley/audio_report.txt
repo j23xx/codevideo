@@ -1,0 +1,9 @@
+audio: 42.00 s, peak -1.1 dBFS, rms -17.9 dBFS, clipped samples 0, L/R correlation 0.97
+onset rise: ball lands 12.6 dB, impact 8.6 dB, cushion 4.3 dB, table set 3.7 dB
+  outside        0.5-  4.0 s  rms -29.1 dBFS
+  lobby          6.0- 14.0 s  rms -17.5 dBFS
+  chase         15.6- 17.7 s  rms -19.6 dBFS
+  bullet time   18.0- 22.2 s  rms -13.4 dBFS
+  machine       22.2- 33.0 s  rms -16.0 dBFS
+  return        34.5- 41.0 s  rms -28.7 dBFS
+events placed: 96 (ball-pin 14, pin-pin 17, pin-surface 64, cushion 1)

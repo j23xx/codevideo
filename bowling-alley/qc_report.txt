@@ -1,0 +1,9 @@
+video: h264 High 1920x1080 30/1 fps, 1260 frames, 42.000 s, pix_fmt yuv420p
+audio: aac 48000 Hz 2 ch, 42.000 s
+file: 56.8 MB, overall bitrate 10.8 Mbps
+decoded frames: 1260
+black frames outside the fades: 0 []
+frozen frames: 0 []
+single-frame block outliers: 17 [(153, 1), (154, 1), (155, 1), (673, 1), (711, 1), (800, 1), (803, 1), (805, 1), (806, 1), (809, 3), (902, 1), (903, 1), (904, 1), (946, 1), (1012, 1), (1013, 1), (1014, 1)]
+single-frame brightness flashes: 0 []
+mean level by 3 s window: 86 76 77 76 83 72 93 72 70 81 88 76 80 76
